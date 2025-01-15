@@ -6,11 +6,6 @@ I am a junior C# .NET Core developer with a solid foundation in building web app
 
 ---
 
-## Contact 📞
-- **Phone**: 918 28 9313
-- **Email**: [abduqahhorismonov185@gmail.com](mailto:abduqahhorismonov185@gmail.com)
----
-
 ## Education 🎓
 - **Bachelor of Science** in Tajik Technical University named after Muhammad O.
 - **Softclub Academy**
