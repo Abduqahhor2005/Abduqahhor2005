@@ -1,7 +1,6 @@
 # Abduqahhor Ismonov - Software Developer 🚀
 
-![.NET CORE DEV](https://github.com/Abduqahhor2005/Abduqahhor2005/blob/main/photo_2025-01-14_17-51-26.jpg)
-
+https://github.com/Abduqahhor2005/Abduqahhor2005/blob/main/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F2.gif
 ---
 
 ## About Me
