@@ -30,6 +30,3 @@ I am a junior C# .NET Core developer with a solid foundation in building web app
 | English  | Intermediate |
 | Russian  | Fluent       |
 | Tajik    | Native       |
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abduqahhor2005&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Abduqahhor2005&show_icons=true&theme=dark&cache_seconds=1800
-)
