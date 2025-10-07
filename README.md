@@ -20,7 +20,7 @@ I am a junior C# .NET Core developer with a solid foundation in building web app
 ## Technical Skills 💻
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - **Programming Languages**: C++, C#
 - **Frameworks**: .NET Core, ASP.NET Core
